@@ -1,0 +1,6 @@
+User management:
+- Only ADMINs should be able to change profiles.role between 'student', 'faculty', 'admin'.
+- This is enforced in the database RLS policies from the earlier SQL.
+- Frontend exposes a simple UI for admins to view and change roles.
+
+
